@@ -1,1 +1,59 @@
-hi george william emman
+
+Devops with cloud - streamlines /sections
+-----------------------------
+1) Build and deployment/Release management team :
+
+    example tools - azure,azure devops,octopus,tfvc,git,service now,jira,app center ,docker/k8's with ie.aks
+                  
+
+2) Change Management Team/Incident team :
+
+    Example tools- 1) service now   2) bmc remedy 3) jira
+
+
+
+3) Environment Management Team :(cloud-azure/aws or onprem) 
+
+          Example Env -Dev,qa,staging/preprod and prod
+                      - giving access/revoking
+                      - proviopsning infrastuctyre
+
+
+Devops - 30 plus tools - (ci/cd pipline)
+----------------------------------------
+
+1) cloud - Azure,aws,google,alibaba,openshift   
+
+2) version control tool  - git,tfvc ,svn 
+            
+3) Build Tool - azure devops/vsts,jenkins,bamboo(atlassian) ,maven,msbuild ,teamcity
+
+4) configuration management tool - ansible,chef,puppet
+
+5) Deployment tool - octopus - store artifacts / env
+
+6) montioring tool - splunk ,elk
+
+7) scripting langauge - powershell ( microsoft),shell script,python
+
+8) containers - docker ,kubernetes
+
+9) hosting repository -git hub,git lab,bit bucket
+
+10) ticket tool - service now,jira
+
+
+tools:
+-----
+1) version control - git bash,visual studio code and git hub
+
+2) tfvc - visual studio,vs code,azure devops (ci/cd)
+
+3) azure - powershell/conspole,runbook,arm template,azure devops pipeline
+
+4) kubernetes and docker - visual studio code and azure portal
+
+
+
+
+
